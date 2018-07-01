@@ -1,7 +1,8 @@
-.parallax {
+.Portfolio {
     background: url("http://tobyscottphotography.com/content/images/uploads/Backgrounds/standard_background2.jpg");
     height: 800px;
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
+  margin-top: 25px;
 }
